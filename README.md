@@ -1,6 +1,6 @@
 <img src="./assets/dog.jpg" alt="ilustração de um computador" min-width="300px" max-width="380px" width="350px" align="right">
 
-**Hi ✌️, welcome to my home 🏠
+**Hi ✌️, welcome to my home 🏠**
 <p align="left"> 
   Python programmer, weaver of algorithms and tireless debugger of errors. I love writing fluent and efficient poetry, and my passion for programming rivals my love of coffee." ☕🐍💻
 </p>
