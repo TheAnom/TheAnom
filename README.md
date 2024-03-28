@@ -86,7 +86,7 @@
 
 ## Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnom&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnom)
 
 <img align="center" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
