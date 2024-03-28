@@ -1,8 +1,8 @@
 <img src="./assets/dog.jpg" alt="ilustração de um computador" min-width="300px" max-width="380px" width="350px" align="right">
 
-**Hi ✌️, welcome to my home 🏠**
+**Hola ✌️, bienvenido a mi hogar 🏠**
 <p align="left"> 
-  Python programmer, weaver of algorithms and tireless debugger of errors. I love writing fluent and efficient poetry, and my passion for programming rivals my love of coffee." ☕🐍💻
+  Programador en Python, tejedor de algoritmos e incansable depurador de errores. Me encanta escribir poesía fluida y eficiente, y mi pasión por la programación rivaliza con mi amor por el café. ☕🐍💻
 </p>
 
 <p align="left">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  💌 Contact me: ⤵️
+  💌 Contactame: ⤵️
 </p>
 
 <p align="left">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<h1 align="center">I am 🐱... Jeferson Escobar ❤️</h1>
+<h1 align="center">Yo soy 🐱... Jeferson Escobar ❤️</h1>
 
 <table>
   <tr>
@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-## Some repositories
+## Algunos repositorios
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -70,7 +70,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-## Use of languages
+## Lenguajes más usados
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnom&theme=blue-green)
 
