@@ -1,4 +1,4 @@
-<div style="margin: 20px auto; border-radius: 20px; width: 250px;overflow:hidden;">
+<div style="margin: 20px auto; border-radius: 20px; width: 200px;overflow:hidden;">
     <img src="./assets/dog.jpg" alt="dog">
 </div>
 
