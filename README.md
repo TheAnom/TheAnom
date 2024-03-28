@@ -80,17 +80,13 @@
 
 ## Algunos repositorios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=estudiantes-base)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=calculadora-c)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=snake-game-python)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Lenguajes más usados
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnom&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnom&hide_progress=true)
 
 <img align="center" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
