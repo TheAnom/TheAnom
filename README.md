@@ -74,5 +74,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnom&theme=blue-green)
 
-<img style="margin: 10px auto; display: block;" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
-<img style="margin: 10px auto; display: block;" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+<img align="center" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+<img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
