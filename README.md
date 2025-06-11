@@ -62,7 +62,7 @@
 
 ## Algunos repositorios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=estudiantes-base)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=estudiantes-base)](https://github.com/anuraghazra/github-readme-stats](https://github.com/TheAnom/sistema_reservas_cpp))
 
 ## Lenguajes más usados
 
