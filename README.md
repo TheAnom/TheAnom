@@ -1,8 +1,7 @@
 <img src="./assets/dog.jpg" alt="ilustração de um computador" min-width="300px" max-width="380px" width="350px" align="right">
 
 **Hola ✌️, bienvenido a mi hogar 🏠**
-<p align="left"> 
-  Programador en Python, tejedor de algoritmos e incansable depurador de errores. Me encanta escribir poesía fluida y eficiente, y mi pasión por la programación rivaliza con mi amor por el café. ☕🐍💻
+<p align="left">Programador novato en c/c++, apasionado por depurar errores. Me encanta escribir poesía fluida y eficiente, y mi pasión por la programación rivaliza con mi amor por el café. ☕🐍💻
 </p>
 
 <p>Lenguajes ✌️</p>
