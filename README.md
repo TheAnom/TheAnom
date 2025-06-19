@@ -24,10 +24,6 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<p align="left">
-  💌 Contactame ⤵️
-</p>
-
 <h1 align="center">Yo soy 🐱... Jeferson Escobar ❤️</h1>
 
 ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -45,7 +41,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=TheAnom&theme=radical&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=TheAnom&theme=radical&hide_border=true"
         alt="Github Stats"
       />
     </td>
@@ -53,9 +49,8 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=TheAnom&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+        src="https://github-readme-streak-stats.herokuapp.com?user=TheAnom&theme=tokyonight-duo"
+        alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -64,6 +59,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=sistema_reservas_cpp)](https://github.com/TheAnom/sistema_reservas_cpp)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=bull-simulacion)](https://github.com/TheAnom/bull-simulacion)
+
 
 ## Lenguajes más usados
 
@@ -71,3 +68,5 @@
 
 <img align="center" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+
+> Create 16/04/2024 By Jefer
