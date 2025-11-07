@@ -57,9 +57,9 @@
 
 ## Algunos repositorios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=sistema_reservas_cpp)](https://github.com/TheAnom/proyecto-u-fingestor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=proyecto-u-fingestor)](https://github.com/TheAnom/proyecto-u-fingestor)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=bull-simulacion)](https://github.com/TheAnom/base-datos-fingestor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAnom&repo=base-datos-fingestor)](https://github.com/TheAnom/base-datos-fingestor)
 
 
 ## Lenguajes más usados
@@ -70,5 +70,6 @@
 <img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 
 > Create 16/04/2024 By Jefer
+
 
 
